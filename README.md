@@ -1,4 +1,12 @@
 # grblHAL_BlackPill_F4xx_breakout
-grblHAL breakout for F411 (Black Pill)
+grblHAL breakout for F411 (Black Pill). Compatible with the default black pill mapping.
 
-This PCB is "work in progress", this README will be updated as soon as everything is tested with a real HW.
+## What is tested and confirmed to work
+
+Limits, step/dir outputs, probing.
+
+## Pinout
+
+![Pinout][pic_pinout]
+
+[pic_pinout]: images/Pinout.png
