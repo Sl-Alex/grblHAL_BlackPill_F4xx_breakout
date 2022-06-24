@@ -7,11 +7,7 @@ Limits, step/dir outputs and probing are tested and work fine.
 
 > Limits and probing inputs (especially probing) enable a very convenient tool change procedure, when the only thing you have to do is to change the tool and click "cycle start".
 
-The following inputs and outputs are not tested yet, but should work:
-
-- Buttons (cycle start, feed hold and reset)
-- Step enable output
-- Spindle enable output
+Buttons, step enable and spindle enable also work, spindle PWM and auxiliary inputs/outputs are not tested. 
 
 ## Pinout
 
